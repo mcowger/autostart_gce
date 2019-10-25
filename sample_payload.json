@@ -1,0 +1,10 @@
+{
+    "project": "mcowger",
+    "zone": "us-central1-a",
+    "instance": "devbox",
+    "command": "start",
+    "pushover_api": {
+      "user_key": "XXXXXXXXXXXXXXXX",
+      "app_token": "YYYYYYYYYYYYY"
+    }
+  }
